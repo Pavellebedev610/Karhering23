@@ -1,0 +1,91 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="guna2BorderlessForm1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Зачем нужны бонусы?
+Бонусами можно оплатить до 50% суммы поездки. 1 бонус равен 1 рублю.
+После завершения аренды сумма списывается и с бонусного счёта, и с банковской карты.
+
+— Если на бонусном счёте достаточно баллов для оплаты половины стоимости поездки, то сумма будет списана в пропорции 50:50.
+— Если бонусов не будет хватать для оплаты половины суммы, то будет списано доступное количество бонусов,
+а оставшаяся часть — с карты.
+
+Количество бонусов всегда можно проверить в меню, а списанные бонусы — в детализации поездки.
+
+Как получить бонусы?
+Способов немало. На первую поездку их можно получить по промокоду от друга или из рекламы.
+ Ещё бонусы бывают призом в промоакциях (о них мы рассказываем в письмах и соцсетях). 
+
+Но бонусы можно и заработать — например, если отвезти машину на заправку.
+ Подробнее о других способах в статьях «Приведи друга» и «Не дыми».
+
+Бонусы могут сгорать?
+Если в течение 45 дней никуда не ездить и не получать другие бонусы, то остаток сгорит. 
+Приложение напомнит о сгорании за 10 дней.
+
+Если поехать по Фиксу, Минутам, Часам или Дням, то часть бонусов оплатит поездку, и отсчёт 45 дней начнётся заново.
+ Оставшиеся бонусы не сгорят и сохранятся до следующей аренды.
+
+Если купить Проездной, то отсчёт 45 дней начнётся заново с момента покупки. 
+Когда Проездной кончится, можно куда-то поехать или купить новый. Тогда бонусы никуда не исчезнут.</value>
+  </data>
+</root>
